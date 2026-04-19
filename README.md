@@ -1,2 +1,2 @@
 # BeagleBone-Black-Linux-Kernel
-for study embedded systems
+This Project is for learn lunux embedded systems , use the Beaglebone Black to testing 
